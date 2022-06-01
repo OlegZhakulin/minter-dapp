@@ -456,7 +456,7 @@ section {
   background: var(--bg-color);
   color: var(--font-color);
 }
-.decode ul.a {
+.decode ul {
   list-style-type: disc;
   list-style-position: inside;
 }
