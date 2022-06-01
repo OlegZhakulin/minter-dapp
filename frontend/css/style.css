@@ -443,11 +443,6 @@ section {
 .decode span {
   float: left;
 }
-.decode span-2 {
-  float: right;
-  text-align: right;
-  margin-top: 30px;	  
-}
 .decode img {
   width: 250px;
   height: 250px;
