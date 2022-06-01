@@ -441,6 +441,7 @@ section {
 }
 .decode span {
   float: left;
+  margin: 0 auto;
   margin-right: 15px;
 }
 .decode img {
