@@ -434,7 +434,7 @@ section {
   font-size: 2rem;
 }
 .decode p {
-  float: right;
+  float: center;
   font-size: 1.1rem;
   line-height: 1.8;
   font-family: var(--font-secondary);
@@ -445,7 +445,7 @@ section {
 }
 .decode span-2 {
   float: right;
-  text-align: left;
+  text-align: right;
   margin-top: 30px;	  
 }
 .decode img {
