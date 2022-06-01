@@ -434,6 +434,7 @@ section {
   font-size: 2rem;
 }
 .decode p {
+  float: right;
   font-size: 1.1rem;
   line-height: 1.8;
   font-family: var(--font-secondary);
