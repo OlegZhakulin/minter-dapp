@@ -454,6 +454,9 @@ section {
   background: var(--bg-color);
   color: var(--font-color);
 }
+.decode ul.a {
+  list-style-type: circle;
+}
 
 /* ROADMAP */
 
