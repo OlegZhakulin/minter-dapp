@@ -456,7 +456,7 @@ section {
 }
 .decode ul.a {
   list-style-type: disc;
-  list-style-position: outside;
+  list-style-position: inside;
 }
 
 /* ROADMAP */
