@@ -420,7 +420,7 @@ section {
 .decode {
   padding: 5rem 0;
   background: var(--btn-bg-color);
-  text-align: left;
+  text-align: center;
   color: var(--bg-color);
 }
 .decode h1 {
