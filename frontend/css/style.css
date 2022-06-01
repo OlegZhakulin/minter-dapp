@@ -443,7 +443,8 @@ section {
   float: left;
 }
 .decode img {
-  width: 60%;
+  width: 200px;
+  height: 200px;
   margin-right: 1rem;
   object-fit: none;
   object-position: bottom left;
