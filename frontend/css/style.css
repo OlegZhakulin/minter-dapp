@@ -420,7 +420,7 @@ section {
 .decode {
   padding: 5rem 0;
   background: var(--btn-bg-color);
-  text-align: left;
+  text-align: center;
   color: var(--bg-color);
 }
 .decode h1 {
@@ -442,6 +442,11 @@ section {
 .decode span {
   float: left;
 }
+.decode span-2 {
+  float: right;
+  text-align: left;
+  margin-top: 30px;	  
+}
 .decode img {
   width: 250px;
   height: 250px;
@@ -456,7 +461,7 @@ section {
 }
 .decode ul.a {
   list-style-type: disc;
-  list-style-position: outside;
+  list-style-position: outside;	
 }
 
 /* ROADMAP */
