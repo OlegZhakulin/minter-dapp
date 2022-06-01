@@ -455,7 +455,7 @@ section {
   color: var(--font-color);
 }
 .decode ul.a {
-  list-style-type: circle;
+  list-style-type: disc;
 }
 
 /* ROADMAP */
