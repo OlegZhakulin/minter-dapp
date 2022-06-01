@@ -434,7 +434,6 @@ section {
   font-size: 2rem;
 }
 .decode p {
-  float: right;
   font-size: 1.1rem;
   line-height: 1.8;
   font-family: var(--font-secondary);
@@ -446,7 +445,6 @@ section {
 .decode img {
   width: 250px;
   height: 250px;
-  align-content: center;
   margin-right: 1rem;
   object-fit: f;
   object-position: bottom left;
